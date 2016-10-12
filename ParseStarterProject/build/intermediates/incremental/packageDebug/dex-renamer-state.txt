@@ -1,0 +1,7 @@
+#Wed Oct 12 09:05:30 PDT 2016
+base.0=/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ea2981bbbc4638f8f9a209e9f43d9d36021d2e6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5378e5cbaa9de2713aea1f582cfe4e989dc917f1/classes.dex
+base.1=/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5378e5cbaa9de2713aea1f582cfe4e989dc917f1
+file.0=/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ea2981bbbc4638f8f9a209e9f43d9d36021d2e6/classes.dex

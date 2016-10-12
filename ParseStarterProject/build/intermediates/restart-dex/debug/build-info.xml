@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="578545153137162"
+    token="3338562890405204559"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="743" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="69" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="575703502946189"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="578433180423270"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="578545153137162"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/karmapandya/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
