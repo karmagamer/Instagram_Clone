@@ -1,0 +1,6 @@
+{
+  "name": "Instagram clone for android.",
+  "tagline": "Make your own Instagram. Fork this repository for basic image sharing android application.",
+  "body": "### Welcome to Instagram Clone Android application.\r\nThis project is basic Instagram application for android devices. Application includes login/logout, share, and delete methods for images.\r\nApplication supports cloud storage using Parse.\r\n\r\n\r\n\r\n\r\n### Authors and Contributors\r\nThis was my personal project(@karmagamer).\r\n\r\n### Support or Contact\r\nVisit my website <a href=\"www.karmapandya.com\"> here.</a> for questions or any other feedback.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
